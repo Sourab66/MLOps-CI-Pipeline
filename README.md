@@ -10,3 +10,4 @@ A minimal MLOps project demonstrating a GitHub Actions CI pipeline.
 - Linting
 - Formatting
 - Automated CI on GitHub
+- Final ready for cd 
